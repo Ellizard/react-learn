@@ -4,4 +4,4 @@ const instance = axios.create({
     baseURL: 'https://burger-builder-89224.firebaseio.com/'
 });
 
-export default instance
+export default instance;
